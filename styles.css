@@ -224,7 +224,7 @@ a {
     margin-top: 2px;
     display: grid;
     row-gap: 0px;
-    grid-template-rows: 80px 70px 70px;
+    grid-template-rows: 90px 70px 70px;
     background-color: #f2f7fc;
     border-radius: 5px;
     box-shadow: 1px 1px 3px #56565680;
