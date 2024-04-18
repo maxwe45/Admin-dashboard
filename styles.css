@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'bfregular';
-    src: url('../fonts/bellefair-regular-webfont.woff2') format('woff2'),
-         url('../fonts/bellefair-regular-webfont.woff') format('woff');
+    src: url('fonts/bellefair-regular-webfont.woff2') format('woff2'),
+         url('fonts/bellefair-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'philbold';
-    src: url('../fonts/philosopher-bold-webfont.woff2') format('woff2'),
-         url('../fonts/philosopher-bold-webfont.woff') format('woff');
+    src: url('fonts/philosopher-bold-webfont.woff2') format('woff2'),
+         url('fonts/philosopher-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
